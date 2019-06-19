@@ -1,0 +1,5608 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 6tem9Fonction\n"
+"POT-Creation-Date: 2016-12-06 16:23+0100\n"
+"PO-Revision-Date: 2016-12-06 16:23+0100\n"
+"Last-Translator: 6tem9 <traduction@6tem9.com>\n"
+"Language-Team: 6tem9 <contact@6tem9.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+
+#: 6tem9Fonction.php:100
+msgid "PDF's"
+msgstr ""
+
+#: 6tem9Fonction.php:100
+msgid "Manage PDFs"
+msgstr ""
+
+#: inc/backOffice.php:36 inc/backOffice.php:70
+#: inc/customUserRoles/functions.php:315
+msgid "Website manager"
+msgstr "Responsable du site"
+
+#: inc/backOffice.php:39 inc/backOffice.php:125
+#: inc/customUserRoles/functions.php:309
+msgid "Referencing"
+msgstr "Référencement"
+
+#: inc/backOffice.php:45 inc/customUserRoles/functions.php:318
+#: inc/footerLinks.php:86
+msgid "Footer links"
+msgstr "Liens du pied de page"
+
+#: inc/backOffice.php:53
+msgid "Users roles"
+msgstr "Rôles des utilisateurs"
+
+#: inc/backOffice.php:82
+msgid "You can specify the e-mail address of the website manager below."
+msgstr ""
+"Vous pouvez préciser ci-dessous l’adresse e-mail du principal responsable du "
+"site."
+
+#: inc/backOffice.php:85
+msgid "You will receive notifications such as comments notifications."
+msgstr "Vous y recevrez notamment les notifications de commentaires."
+
+#: inc/backOffice.php:92
+msgid "E-mail address"
+msgstr "Adresse e-mail"
+
+#: inc/backOffice.php:142
+#, php-format
+msgid ""
+"You must register to a 6temFlex subscription to open your website for search "
+"engines. %sSubscribe to 6temFlex%s"
+msgstr ""
+"Vous devez souscrire à un abonnement 6temFlex pour pouvoir ouvrir votre site "
+"au référencement. %sS’abonner à 6temFlex.%s"
+
+#: inc/backOffice.php:149
+msgid ""
+"To improve your natural referencing, enter the main description of your "
+"website and all keywords that define it. These informations will be readed "
+"by the search engines."
+msgstr ""
+"Pour améliorer votre référencement naturel, saisissez la description "
+"générale de votre site ainsi que les mots-clés qui le caractérisent. Ces "
+"informations seront lues par les moteurs de recherche."
+
+#: inc/backOffice.php:156
+msgid "Search Engine Visibility"
+msgstr ""
+
+#: inc/backOffice.php:160
+msgid "Discourage search engines from indexing this site"
+msgstr ""
+
+#: inc/backOffice.php:162
+msgid "It is up to search engines to honor this request."
+msgstr ""
+
+#: inc/backOffice.php:168
+msgid "Site description"
+msgstr "Description du site"
+
+#: inc/backOffice.php:170
+msgid "Between 140 and 300 characters"
+msgstr "Entre 140 et 300 caractères"
+
+#: inc/backOffice.php:172 inc/backOffice.php:180
+msgid "It remains"
+msgstr "Il reste"
+
+#: inc/backOffice.php:172 inc/backOffice.php:180
+msgid "characters"
+msgstr "caractères"
+
+#: inc/backOffice.php:176
+msgid "Keywords (Separated by a coma)"
+msgstr "Mots-clés (séparés par une virgule)"
+
+#: inc/backOffice.php:178
+msgid "Example : swimming pool, Toulouse, water, swim, Maintenance"
+msgstr "Exemple : piscine, Toulouse, eau, nage, Entretien"
+
+#: inc/customUserRoles/customUserRoles.php:18
+msgid "This role already exists."
+msgstr "Ce rôle existe déjà."
+
+#: inc/customUserRoles/customUserRoles.php:19
+msgid "You reach the maximum count of custom user roles."
+msgstr "Vous avez atteint le maximum de rôles personnalisés."
+
+#: inc/customUserRoles/customUserRoles.php:182
+msgid "Remove custom roles"
+msgstr "Supprimer les rôles personnalisés"
+
+#: inc/customUserRoles/customUserRoles.php:183
+msgid ""
+"You chose for the roles listed below to be deleted. You need to affect the "
+"users linked to these deleted roles to other roles."
+msgstr ""
+"Vous avez choisi de supprimer les rôles ci-dessous. Vous devez lier les "
+"utilisateurs de cet ancien rôle à un nouveau rôle."
+
+#: inc/customUserRoles/customUserRoles.php:210
+#, php-format
+msgid "Linked to %s user"
+msgid_plural "Linked to %s users"
+msgstr[0] "Lié à %s utilisateur"
+msgstr[1] "Lié à %s utilisateurs"
+
+#: inc/customUserRoles/customUserRoles.php:211
+#, php-format
+msgid "Users with the role %s will now have the role %s (%s)"
+msgstr "Les utilisateurs ayant le rôle %s auront maintenant le rôle %s (%s)"
+
+#: inc/customUserRoles/customUserRoles.php:214
+#, php-format
+msgid "The role %s doesn't have any users and will be simply removed."
+msgstr "Le rôle %s n’a aucun utilisateur lié et sera simplement supprimé."
+
+#: inc/customUserRoles/customUserRoles.php:225
+msgid "Remove these roles and save all the options"
+msgstr "Supprimer ces rôles et enregistrer toutes les options"
+
+#: inc/customUserRoles/customUserRoles.php:226
+msgid "Cancel roles removal but save the options"
+msgstr "Annuler la suppression des rôles mais sauvegarder toutes les options"
+
+#: inc/customUserRoles/customUserRoles.php:227
+msgid "Cancel everything"
+msgstr "Tout annuler"
+
+#: inc/customUserRoles/customUserRoles.php:258
+msgid "Custom user roles"
+msgstr "Rôles des utilisateurs"
+
+#: inc/customUserRoles/customUserRoles.php:259
+msgid "Add a new role"
+msgstr "Ajouter un nouveau rôle"
+
+#: inc/customUserRoles/customUserRoles.php:262
+msgid "Role name"
+msgstr "Nom du rôle"
+
+#: inc/customUserRoles/customUserRoles.php:263
+msgid "Create"
+msgstr "Créer"
+
+#: inc/customUserRoles/customUserRoles.php:269
+msgid "Edit roles"
+msgstr "Modifier les rôles"
+
+#: inc/customUserRoles/functions.php:46
+msgid "Write or edit own posts"
+msgstr "Rédiger ou modifier ses propres articles"
+
+#: inc/customUserRoles/functions.php:54
+#, php-format
+msgid "Edit others users posts %s"
+msgstr "Modifier les articles des autres utilisateurs %s"
+
+#: inc/customUserRoles/functions.php:54
+msgid ""
+"If the user can access posts of others users but don't have the rights of "
+"publication below, then he can't edit the published posts of the others "
+"users."
+msgstr ""
+"Si l’utilisateur a les droits pour accéder aux articles des autres "
+"utilisateurs mais n’a pas les droits de publication ci-dessous, alors il ne "
+"pourra pas modifier les articles publiés des autres utilisateurs (seulement "
+"les brouillons)."
+
+#: inc/customUserRoles/functions.php:58
+#, php-format
+msgid "Publish posts %s"
+msgstr "Publier des articles %s"
+
+#: inc/customUserRoles/functions.php:58
+msgid ""
+"Give you access to publish posts, edit published posts and remove published "
+"posts."
+msgstr ""
+"Donne la possibilité de publier des articles et de modifier et supprimer des "
+"articles publiés."
+
+#: inc/customUserRoles/functions.php:62
+msgid "Remove own posts"
+msgstr "Supprimer ses propres articles"
+
+#: inc/customUserRoles/functions.php:66
+msgid "Remove others users posts "
+msgstr "Supprimer les articles des autres utilisateurs"
+
+#: inc/customUserRoles/functions.php:70
+msgid "Access options page"
+msgstr "Accéder à la page d’options"
+
+#: inc/customUserRoles/functions.php:76 inc/customUserRoles/functions.php:131
+msgid "Add or edit categories"
+msgstr "Ajouter ou modifier des catégories"
+
+#: inc/customUserRoles/functions.php:79 inc/customUserRoles/functions.php:134
+msgid "Remove categories"
+msgstr "Supprimer des catégories"
+
+#: inc/customUserRoles/functions.php:95
+msgid "Shop"
+msgstr "Boutique"
+
+#: inc/customUserRoles/functions.php:98
+#, php-format
+msgid "Manage the shop settings %s"
+msgstr "Gérer les paramètres de la boutique %s"
+
+#: inc/customUserRoles/functions.php:98
+msgid ""
+"Allow the user to manage all the shop settings, like global settings, "
+"billings, coupons codes, etc.. "
+msgstr ""
+"Permet de gérer toutes les options générales de la boutique, comme les "
+"paramètres généraux, les factures, les codes promo, etc…"
+
+#: inc/customUserRoles/functions.php:101
+msgid "Manage bookings"
+msgstr "Gérer les réservations"
+
+#: inc/customUserRoles/functions.php:104
+msgid "Manage display settings"
+msgstr "Gérer les paramètres d’affichage"
+
+#: inc/customUserRoles/functions.php:112
+msgid "Shop - Products"
+msgstr "Boutique - Produits"
+
+#: inc/customUserRoles/functions.php:116
+msgid "Write or edit own products"
+msgstr "Rédiger ou modifier ses propres produits"
+
+#: inc/customUserRoles/functions.php:119
+msgid "Edit others users products"
+msgstr "Modifier les produits des autres utilisateurs"
+
+#: inc/customUserRoles/functions.php:122
+msgid "Publish products"
+msgstr "Publier des produits"
+
+#: inc/customUserRoles/functions.php:125
+msgid "Remove own products"
+msgstr "Supprimer ses propres produits"
+
+#: inc/customUserRoles/functions.php:128
+msgid "Remove others users products"
+msgstr "Supprimer les produits des autres utilisateurs"
+
+#: inc/customUserRoles/functions.php:137
+msgid "Add or edit keywords"
+msgstr "Ajouter ou modifier des mots-clés"
+
+#: inc/customUserRoles/functions.php:140
+msgid "Remove keywords"
+msgstr "Supprimer des mots-clés"
+
+#: inc/customUserRoles/functions.php:148
+msgid "Shop - Orders"
+msgstr "Boutique - Commandes"
+
+#: inc/customUserRoles/functions.php:152
+msgid "Write or edit own orders"
+msgstr "Rédiger ou modifier ses propres commandes"
+
+#: inc/customUserRoles/functions.php:155
+msgid "Edit others users orders"
+msgstr "Modifier les commandes des autres utilisateurs"
+
+#: inc/customUserRoles/functions.php:158
+msgid "Publish orders"
+msgstr "Publier des commandes"
+
+#: inc/customUserRoles/functions.php:161
+msgid "Remove own orders"
+msgstr "Supprimer ses propres commandes"
+
+#: inc/customUserRoles/functions.php:164
+msgid "Remove others users orders"
+msgstr "Supprimer les commandes des autres utilisateurs"
+
+#: inc/customUserRoles/functions.php:169
+msgid "Shop - Coupons"
+msgstr "Boutique - Codes promo"
+
+#: inc/customUserRoles/functions.php:173
+msgid "Write or edit own coupons"
+msgstr "Rédiger ou modifier ses propres codes promo"
+
+#: inc/customUserRoles/functions.php:176
+msgid "Edit others users coupons"
+msgstr "Modifier les codes promo des autres utilisateurs"
+
+#: inc/customUserRoles/functions.php:179
+msgid "Publish coupons"
+msgstr "Publier des codes promo"
+
+#: inc/customUserRoles/functions.php:182
+msgid "Remove own coupons"
+msgstr "Supprimer ses propres codes promo"
+
+#: inc/customUserRoles/functions.php:185
+msgid "Remove others users coupons"
+msgstr "Supprimer les codes promo des autres utilisateurs"
+
+#: inc/customUserRoles/functions.php:194
+msgid "Carrousel"
+msgstr "Carrousel"
+
+#: inc/customUserRoles/functions.php:197
+msgid "Manage the carousel"
+msgstr "Gérer le carrousel"
+
+#: inc/customUserRoles/functions.php:200
+msgid "Edit the carousel general options"
+msgstr "Modifier les options générales du carrousel"
+
+#: inc/customUserRoles/functions.php:208
+msgid "Site management"
+msgstr "Gestion du site"
+
+#: inc/customUserRoles/functions.php:211
+msgid "Manage site customization"
+msgstr "Gérer la personnalisation du site"
+
+#: inc/customUserRoles/functions.php:214
+msgid "Manage widgets"
+msgstr "Gérer les widgets"
+
+#: inc/customUserRoles/functions.php:217
+msgid "Manage menu"
+msgstr "Gérer le menu"
+
+#: inc/customUserRoles/functions.php:220
+msgid "Manage comments"
+msgstr "Gérer les commentaires"
+
+#: inc/customUserRoles/functions.php:223
+msgid "Manage medias"
+msgstr "Gérer les médias"
+
+#: inc/customUserRoles/functions.php:226
+msgid "Manage SEO metaboxes"
+msgstr "Gérer les options SEO des articles"
+
+#: inc/customUserRoles/functions.php:229
+msgid "Manage Google Analytics"
+msgstr "Gérer Google Analytics"
+
+#: inc/customUserRoles/functions.php:232
+msgid "Manage custom roles"
+msgstr "Gérer les rôles personnalisés"
+
+#: inc/customUserRoles/functions.php:235
+msgid "Enable / Disable advanced options"
+msgstr "Activer / Désactiver les fonctionnalités avancées"
+
+#: inc/customUserRoles/functions.php:238
+msgid "Create custom post types"
+msgstr "Créer des types de contenu personnalisés"
+
+#: inc/customUserRoles/functions.php:241
+msgid "Access private area"
+msgstr "Accéder à l’espace privé"
+
+#: inc/customUserRoles/functions.php:244
+#, php-format
+msgid "Add or edit custom post types keywords %s"
+msgstr "Ajouter ou modifier des mots-clés sur les types de contenu %s"
+
+#: inc/customUserRoles/functions.php:244 inc/customUserRoles/functions.php:247
+msgid "Keywords are shared between all the custom post types."
+msgstr "Les mots-clés sont partagés entre tous les types de contenu."
+
+#: inc/customUserRoles/functions.php:247
+#, php-format
+msgid "Remove custom post types keywords %s"
+msgstr "Supprimer des mots-clés sur les types de contenu %s"
+
+#: inc/customUserRoles/functions.php:255
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: inc/customUserRoles/functions.php:258
+msgid "Manage newsletters"
+msgstr "Gérer les newsletters"
+
+#: inc/customUserRoles/functions.php:261
+msgid "Manage subscribers"
+msgstr "Gérer les abonnés"
+
+#: inc/customUserRoles/functions.php:264
+msgid "View statistics"
+msgstr "Voir les statistiques"
+
+#: inc/customUserRoles/functions.php:272
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1015
+msgid "Forms"
+msgstr "Formulaires"
+
+#: inc/customUserRoles/functions.php:276
+msgid "Create forms"
+msgstr "Créer des formulaires"
+
+#: inc/customUserRoles/functions.php:279
+msgid "Edit forms"
+msgstr "Modifier des formulaires"
+
+#: inc/customUserRoles/functions.php:282
+msgid "Delete forms"
+msgstr "Supprimer des formulaires"
+
+#: inc/customUserRoles/functions.php:285
+msgid "View entries"
+msgstr "Voir les messages"
+
+#: inc/customUserRoles/functions.php:288
+msgid "Edit entries"
+msgstr "Modifier les messages"
+
+#: inc/customUserRoles/functions.php:291
+msgid "Delete entries"
+msgstr "Supprimer les messages"
+
+#: inc/customUserRoles/functions.php:294
+msgid "Export entries"
+msgstr "Exporter les messages"
+
+#: inc/customUserRoles/functions.php:297
+msgid "Edit general settings"
+msgstr "Modifier les paramètres généraux"
+
+#: inc/customUserRoles/functions.php:306
+msgid "Settings pages"
+msgstr "Pages de paramétrage"
+
+#: inc/customUserRoles/functions.php:312
+msgid "Sharing bar"
+msgstr "Barre de partage"
+
+#: inc/customUserRoles/functions.php:321
+msgid "Cookies message"
+msgstr "Message des cookies"
+
+#: inc/customUserRoles/functions.php:329
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:245
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3160
+msgid "Users"
+msgstr "Utilisateurs"
+
+#: inc/customUserRoles/functions.php:333 inc/customUserRoles/functions.php:336
+msgid "View and edit users"
+msgstr "Voir et modifier les utilisateurs"
+
+#: inc/customUserRoles/functions.php:339
+msgid "Add new users"
+msgstr "Ajouter de nouveaux utilisateurs"
+
+#: inc/customUserRoles/functions.php:342
+msgid "Delete users"
+msgstr "Supprimer des utilisateurs"
+
+#: inc/customUserRoles/functions.php:345
+msgid "Change users role"
+msgstr "Changer le rôle des utilisateurs"
+
+#: inc/footerLinks.php:27
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:570
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:570
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:575
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3100
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3105
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:859
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:592
+msgid "Trash"
+msgstr "Corbeille"
+
+#: inc/footerLinks.php:28
+msgid "Open in a new tab"
+msgstr "Ouvrir dans un nouvel onglet"
+
+#: inc/footerLinks.php:29
+msgid "Add the item"
+msgstr "Ajouter l’élément"
+
+#: inc/footerLinks.php:30
+msgid "Title"
+msgstr "Titre"
+
+#: inc/footerLinks.php:112
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:285
+msgid "Links"
+msgstr "Liens"
+
+#: inc/general.php:74
+msgid "Afghanistan"
+msgstr ""
+
+#: inc/general.php:75
+msgid "&#197;land Islands"
+msgstr ""
+
+#: inc/general.php:76
+msgid "Albania"
+msgstr ""
+
+#: inc/general.php:77
+msgid "Algeria"
+msgstr ""
+
+#: inc/general.php:78
+msgid "Andorra"
+msgstr ""
+
+#: inc/general.php:79
+msgid "Angola"
+msgstr ""
+
+#: inc/general.php:80
+msgid "Anguilla"
+msgstr ""
+
+#: inc/general.php:81
+msgid "Antarctica"
+msgstr ""
+
+#: inc/general.php:82
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: inc/general.php:83
+msgid "Argentina"
+msgstr ""
+
+#: inc/general.php:84
+msgid "Armenia"
+msgstr ""
+
+#: inc/general.php:85
+msgid "Aruba"
+msgstr ""
+
+#: inc/general.php:86
+msgid "Australia"
+msgstr ""
+
+#: inc/general.php:87
+msgid "Austria"
+msgstr ""
+
+#: inc/general.php:88
+msgid "Azerbaijan"
+msgstr ""
+
+#: inc/general.php:89
+msgid "Bahamas"
+msgstr ""
+
+#: inc/general.php:90
+msgid "Bahrain"
+msgstr ""
+
+#: inc/general.php:91
+msgid "Bangladesh"
+msgstr ""
+
+#: inc/general.php:92
+msgid "Barbados"
+msgstr ""
+
+#: inc/general.php:93
+msgid "Belarus"
+msgstr ""
+
+#: inc/general.php:94
+msgid "Belgium"
+msgstr ""
+
+#: inc/general.php:95
+msgid "Belau"
+msgstr ""
+
+#: inc/general.php:96
+msgid "Belize"
+msgstr ""
+
+#: inc/general.php:97
+msgid "Benin"
+msgstr ""
+
+#: inc/general.php:98
+msgid "Bermuda"
+msgstr ""
+
+#: inc/general.php:99
+msgid "Bhutan"
+msgstr ""
+
+#: inc/general.php:100
+msgid "Bolivia"
+msgstr ""
+
+#: inc/general.php:101
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr ""
+
+#: inc/general.php:102
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: inc/general.php:103
+msgid "Botswana"
+msgstr ""
+
+#: inc/general.php:104
+msgid "Bouvet Island"
+msgstr ""
+
+#: inc/general.php:105
+msgid "Brazil"
+msgstr ""
+
+#: inc/general.php:106
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: inc/general.php:107
+msgid "British Virgin Islands"
+msgstr ""
+
+#: inc/general.php:108
+msgid "Brunei"
+msgstr ""
+
+#: inc/general.php:109
+msgid "Bulgaria"
+msgstr ""
+
+#: inc/general.php:110
+msgid "Burkina Faso"
+msgstr ""
+
+#: inc/general.php:111
+msgid "Burundi"
+msgstr ""
+
+#: inc/general.php:112
+msgid "Cambodia"
+msgstr ""
+
+#: inc/general.php:113
+msgid "Cameroon"
+msgstr ""
+
+#: inc/general.php:114
+msgid "Canada"
+msgstr ""
+
+#: inc/general.php:115
+msgid "Cape Verde"
+msgstr ""
+
+#: inc/general.php:116
+msgid "Cayman Islands"
+msgstr ""
+
+#: inc/general.php:117
+msgid "Central African Republic"
+msgstr ""
+
+#: inc/general.php:118
+msgid "Chad"
+msgstr ""
+
+#: inc/general.php:119
+msgid "Chile"
+msgstr ""
+
+#: inc/general.php:120
+msgid "China"
+msgstr ""
+
+#: inc/general.php:121
+msgid "Christmas Island"
+msgstr ""
+
+#: inc/general.php:122
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: inc/general.php:123
+msgid "Colombia"
+msgstr ""
+
+#: inc/general.php:124
+msgid "Comoros"
+msgstr ""
+
+#: inc/general.php:125
+msgid "Congo (Brazzaville)"
+msgstr ""
+
+#: inc/general.php:126
+msgid "Congo (Kinshasa)"
+msgstr ""
+
+#: inc/general.php:127
+msgid "Cook Islands"
+msgstr ""
+
+#: inc/general.php:128
+msgid "Costa Rica"
+msgstr ""
+
+#: inc/general.php:129
+msgid "Croatia"
+msgstr ""
+
+#: inc/general.php:130
+msgid "Cuba"
+msgstr ""
+
+#: inc/general.php:131
+msgid "Cura&Ccedil;ao"
+msgstr ""
+
+#: inc/general.php:132
+msgid "Cyprus"
+msgstr ""
+
+#: inc/general.php:133
+msgid "Czech Republic"
+msgstr ""
+
+#: inc/general.php:134
+msgid "Denmark"
+msgstr ""
+
+#: inc/general.php:135
+msgid "Djibouti"
+msgstr ""
+
+#: inc/general.php:136
+msgid "Dominica"
+msgstr ""
+
+#: inc/general.php:137
+msgid "Dominican Republic"
+msgstr ""
+
+#: inc/general.php:138
+msgid "Ecuador"
+msgstr ""
+
+#: inc/general.php:139
+msgid "Egypt"
+msgstr ""
+
+#: inc/general.php:140
+msgid "El Salvador"
+msgstr ""
+
+#: inc/general.php:141
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: inc/general.php:142
+msgid "Eritrea"
+msgstr ""
+
+#: inc/general.php:143
+msgid "Estonia"
+msgstr ""
+
+#: inc/general.php:144
+msgid "Ethiopia"
+msgstr ""
+
+#: inc/general.php:145
+msgid "Falkland Islands"
+msgstr ""
+
+#: inc/general.php:146
+msgid "Faroe Islands"
+msgstr ""
+
+#: inc/general.php:147
+msgid "Fiji"
+msgstr ""
+
+#: inc/general.php:148
+msgid "Finland"
+msgstr ""
+
+#: inc/general.php:149
+msgid "France"
+msgstr ""
+
+#: inc/general.php:150
+msgid "French Guiana"
+msgstr ""
+
+#: inc/general.php:151
+msgid "French Polynesia"
+msgstr ""
+
+#: inc/general.php:152
+msgid "French Southern Territories"
+msgstr ""
+
+#: inc/general.php:153
+msgid "Gabon"
+msgstr ""
+
+#: inc/general.php:154
+msgid "Gambia"
+msgstr ""
+
+#: inc/general.php:155
+msgid "Georgia"
+msgstr ""
+
+#: inc/general.php:156
+msgid "Germany"
+msgstr ""
+
+#: inc/general.php:157
+msgid "Ghana"
+msgstr ""
+
+#: inc/general.php:158
+msgid "Gibraltar"
+msgstr ""
+
+#: inc/general.php:159
+msgid "Greece"
+msgstr ""
+
+#: inc/general.php:160
+msgid "Greenland"
+msgstr ""
+
+#: inc/general.php:161
+msgid "Grenada"
+msgstr ""
+
+#: inc/general.php:162
+msgid "Guadeloupe"
+msgstr ""
+
+#: inc/general.php:163
+msgid "Guatemala"
+msgstr ""
+
+#: inc/general.php:164
+msgid "Guernsey"
+msgstr ""
+
+#: inc/general.php:165
+msgid "Guinea"
+msgstr ""
+
+#: inc/general.php:166
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: inc/general.php:167
+msgid "Guyana"
+msgstr ""
+
+#: inc/general.php:168
+msgid "Haiti"
+msgstr ""
+
+#: inc/general.php:169
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: inc/general.php:170
+msgid "Honduras"
+msgstr ""
+
+#: inc/general.php:171
+msgid "Hong Kong"
+msgstr ""
+
+#: inc/general.php:172
+msgid "Hungary"
+msgstr ""
+
+#: inc/general.php:173
+msgid "Iceland"
+msgstr ""
+
+#: inc/general.php:174
+msgid "India"
+msgstr ""
+
+#: inc/general.php:175
+msgid "Indonesia"
+msgstr ""
+
+#: inc/general.php:176
+msgid "Iran"
+msgstr ""
+
+#: inc/general.php:177
+msgid "Iraq"
+msgstr ""
+
+#: inc/general.php:178
+msgid "Republic of Ireland"
+msgstr ""
+
+#: inc/general.php:179
+msgid "Isle of Man"
+msgstr ""
+
+#: inc/general.php:180
+msgid "Israel"
+msgstr ""
+
+#: inc/general.php:181
+msgid "Italy"
+msgstr ""
+
+#: inc/general.php:182
+msgid "Ivory Coast"
+msgstr ""
+
+#: inc/general.php:183
+msgid "Jamaica"
+msgstr ""
+
+#: inc/general.php:184
+msgid "Japan"
+msgstr ""
+
+#: inc/general.php:185
+msgid "Jersey"
+msgstr ""
+
+#: inc/general.php:186
+msgid "Jordan"
+msgstr ""
+
+#: inc/general.php:187
+msgid "Kazakhstan"
+msgstr ""
+
+#: inc/general.php:188
+msgid "Kenya"
+msgstr ""
+
+#: inc/general.php:189
+msgid "Kiribati"
+msgstr ""
+
+#: inc/general.php:190
+msgid "Kuwait"
+msgstr ""
+
+#: inc/general.php:191
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: inc/general.php:192
+msgid "Laos"
+msgstr ""
+
+#: inc/general.php:193
+msgid "Latvia"
+msgstr ""
+
+#: inc/general.php:194
+msgid "Lebanon"
+msgstr ""
+
+#: inc/general.php:195
+msgid "Lesotho"
+msgstr ""
+
+#: inc/general.php:196
+msgid "Liberia"
+msgstr ""
+
+#: inc/general.php:197
+msgid "Libya"
+msgstr ""
+
+#: inc/general.php:198
+msgid "Liechtenstein"
+msgstr ""
+
+#: inc/general.php:199
+msgid "Lithuania"
+msgstr ""
+
+#: inc/general.php:200
+msgid "Luxembourg"
+msgstr ""
+
+#: inc/general.php:201
+msgid "Macao S.A.R., China"
+msgstr ""
+
+#: inc/general.php:202
+msgid "Macedonia"
+msgstr ""
+
+#: inc/general.php:203
+msgid "Madagascar"
+msgstr ""
+
+#: inc/general.php:204
+msgid "Malawi"
+msgstr ""
+
+#: inc/general.php:205
+msgid "Malaysia"
+msgstr ""
+
+#: inc/general.php:206
+msgid "Maldives"
+msgstr ""
+
+#: inc/general.php:207
+msgid "Mali"
+msgstr ""
+
+#: inc/general.php:208
+msgid "Malta"
+msgstr ""
+
+#: inc/general.php:209
+msgid "Marshall Islands"
+msgstr ""
+
+#: inc/general.php:210
+msgid "Martinique"
+msgstr ""
+
+#: inc/general.php:211
+msgid "Mauritania"
+msgstr ""
+
+#: inc/general.php:212
+msgid "Mauritius"
+msgstr ""
+
+#: inc/general.php:213
+msgid "Mayotte"
+msgstr ""
+
+#: inc/general.php:214
+msgid "Mexico"
+msgstr ""
+
+#: inc/general.php:215
+msgid "Micronesia"
+msgstr ""
+
+#: inc/general.php:216
+msgid "Moldova"
+msgstr ""
+
+#: inc/general.php:217
+msgid "Monaco"
+msgstr ""
+
+#: inc/general.php:218
+msgid "Mongolia"
+msgstr ""
+
+#: inc/general.php:219
+msgid "Montenegro"
+msgstr ""
+
+#: inc/general.php:220
+msgid "Montserrat"
+msgstr ""
+
+#: inc/general.php:221
+msgid "Morocco"
+msgstr ""
+
+#: inc/general.php:222
+msgid "Mozambique"
+msgstr ""
+
+#: inc/general.php:223
+msgid "Myanmar"
+msgstr ""
+
+#: inc/general.php:224
+msgid "Namibia"
+msgstr ""
+
+#: inc/general.php:225
+msgid "Nauru"
+msgstr ""
+
+#: inc/general.php:226
+msgid "Nepal"
+msgstr ""
+
+#: inc/general.php:227
+msgid "Netherlands"
+msgstr ""
+
+#: inc/general.php:228
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: inc/general.php:229
+msgid "New Caledonia"
+msgstr ""
+
+#: inc/general.php:230
+msgid "New Zealand"
+msgstr ""
+
+#: inc/general.php:231
+msgid "Nicaragua"
+msgstr ""
+
+#: inc/general.php:232
+msgid "Niger"
+msgstr ""
+
+#: inc/general.php:233
+msgid "Nigeria"
+msgstr ""
+
+#: inc/general.php:234
+msgid "Niue"
+msgstr ""
+
+#: inc/general.php:235
+msgid "Norfolk Island"
+msgstr ""
+
+#: inc/general.php:236
+msgid "North Korea"
+msgstr ""
+
+#: inc/general.php:237
+msgid "Norway"
+msgstr ""
+
+#: inc/general.php:238
+msgid "Oman"
+msgstr ""
+
+#: inc/general.php:239
+msgid "Pakistan"
+msgstr ""
+
+#: inc/general.php:240
+msgid "Palestinian Territory"
+msgstr ""
+
+#: inc/general.php:241
+msgid "Panama"
+msgstr ""
+
+#: inc/general.php:242
+msgid "Papua New Guinea"
+msgstr ""
+
+#: inc/general.php:243
+msgid "Paraguay"
+msgstr ""
+
+#: inc/general.php:244
+msgid "Peru"
+msgstr ""
+
+#: inc/general.php:245
+msgid "Philippines"
+msgstr ""
+
+#: inc/general.php:246
+msgid "Pitcairn"
+msgstr ""
+
+#: inc/general.php:247
+msgid "Poland"
+msgstr ""
+
+#: inc/general.php:248
+msgid "Portugal"
+msgstr ""
+
+#: inc/general.php:249
+msgid "Qatar"
+msgstr ""
+
+#: inc/general.php:250
+msgid "Reunion"
+msgstr ""
+
+#: inc/general.php:251
+msgid "Romania"
+msgstr ""
+
+#: inc/general.php:252
+msgid "Russia"
+msgstr ""
+
+#: inc/general.php:253
+msgid "Rwanda"
+msgstr ""
+
+#: inc/general.php:254
+msgid "Saint Barth&eacute;lemy"
+msgstr ""
+
+#: inc/general.php:255
+msgid "Saint Helena"
+msgstr ""
+
+#: inc/general.php:256
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: inc/general.php:257
+msgid "Saint Lucia"
+msgstr ""
+
+#: inc/general.php:258
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: inc/general.php:259
+msgid "Saint Martin (Dutch part)"
+msgstr ""
+
+#: inc/general.php:260
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: inc/general.php:261
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: inc/general.php:262
+msgid "San Marino"
+msgstr ""
+
+#: inc/general.php:263
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr ""
+
+#: inc/general.php:264
+msgid "Saudi Arabia"
+msgstr ""
+
+#: inc/general.php:265
+msgid "Senegal"
+msgstr ""
+
+#: inc/general.php:266
+msgid "Serbia"
+msgstr ""
+
+#: inc/general.php:267
+msgid "Seychelles"
+msgstr ""
+
+#: inc/general.php:268
+msgid "Sierra Leone"
+msgstr ""
+
+#: inc/general.php:269
+msgid "Singapore"
+msgstr ""
+
+#: inc/general.php:270
+msgid "Slovakia"
+msgstr ""
+
+#: inc/general.php:271
+msgid "Slovenia"
+msgstr ""
+
+#: inc/general.php:272
+msgid "Solomon Islands"
+msgstr ""
+
+#: inc/general.php:273
+msgid "Somalia"
+msgstr ""
+
+#: inc/general.php:274
+msgid "South Africa"
+msgstr ""
+
+#: inc/general.php:275
+msgid "South Georgia/Sandwich Islands"
+msgstr ""
+
+#: inc/general.php:276
+msgid "South Korea"
+msgstr ""
+
+#: inc/general.php:277
+msgid "South Sudan"
+msgstr ""
+
+#: inc/general.php:278
+msgid "Spain"
+msgstr ""
+
+#: inc/general.php:279
+msgid "Sri Lanka"
+msgstr ""
+
+#: inc/general.php:280
+msgid "Sudan"
+msgstr ""
+
+#: inc/general.php:281
+msgid "Suriname"
+msgstr ""
+
+#: inc/general.php:282
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: inc/general.php:283
+msgid "Swaziland"
+msgstr ""
+
+#: inc/general.php:284
+msgid "Sweden"
+msgstr ""
+
+#: inc/general.php:285
+msgid "Switzerland"
+msgstr ""
+
+#: inc/general.php:286
+msgid "Syria"
+msgstr ""
+
+#: inc/general.php:287
+msgid "Taiwan"
+msgstr ""
+
+#: inc/general.php:288
+msgid "Tajikistan"
+msgstr ""
+
+#: inc/general.php:289
+msgid "Tanzania"
+msgstr ""
+
+#: inc/general.php:290
+msgid "Thailand"
+msgstr ""
+
+#: inc/general.php:291
+msgid "Timor-Leste"
+msgstr ""
+
+#: inc/general.php:292
+msgid "Togo"
+msgstr ""
+
+#: inc/general.php:293
+msgid "Tokelau"
+msgstr ""
+
+#: inc/general.php:294
+msgid "Tonga"
+msgstr ""
+
+#: inc/general.php:295
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: inc/general.php:296
+msgid "Tunisia"
+msgstr ""
+
+#: inc/general.php:297
+msgid "Turkey"
+msgstr ""
+
+#: inc/general.php:298
+msgid "Turkmenistan"
+msgstr ""
+
+#: inc/general.php:299
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: inc/general.php:300
+msgid "Tuvalu"
+msgstr ""
+
+#: inc/general.php:301
+msgid "Uganda"
+msgstr ""
+
+#: inc/general.php:302
+msgid "Ukraine"
+msgstr ""
+
+#: inc/general.php:303
+msgid "United Arab Emirates"
+msgstr ""
+
+#: inc/general.php:304
+msgid "United Kingdom (UK)"
+msgstr ""
+
+#: inc/general.php:305
+msgid "United States (US)"
+msgstr ""
+
+#: inc/general.php:306
+msgid "Uruguay"
+msgstr ""
+
+#: inc/general.php:307
+msgid "Uzbekistan"
+msgstr ""
+
+#: inc/general.php:308
+msgid "Vanuatu"
+msgstr ""
+
+#: inc/general.php:309
+msgid "Vatican"
+msgstr ""
+
+#: inc/general.php:310
+msgid "Venezuela"
+msgstr ""
+
+#: inc/general.php:311
+msgid "Vietnam"
+msgstr ""
+
+#: inc/general.php:312
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: inc/general.php:313
+msgid "Western Sahara"
+msgstr ""
+
+#: inc/general.php:314
+msgid "Western Samoa"
+msgstr ""
+
+#: inc/general.php:315
+msgid "Yemen"
+msgstr ""
+
+#: inc/general.php:316
+msgid "Zambia"
+msgstr ""
+
+#: inc/general.php:317
+msgid "Zimbabwe"
+msgstr ""
+
+#: inc/general.php:338
+msgid "Select a country"
+msgstr "Choisir un pays"
+
+#: inc/general.php:1617
+msgid "comments"
+msgstr "commentaires"
+
+#: inc/general.php:1617
+msgid "comment"
+msgstr "commentaire"
+
+#: inc/general.php:2049
+msgid "Filter My Sites"
+msgstr "Filtrer mes sites"
+
+#: inc/general.php:2050
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1120
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:515
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:520
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2780
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:247
+msgid "Search"
+msgstr "Rechercher"
+
+#: inc/iconPicker/includes/library/form-fields.php:528
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: inc/iconPicker/includes/library/functions.php:79
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/iconPicker/includes/library/functions.php:80
+msgid "Medium"
+msgstr ""
+
+#: inc/iconPicker/includes/library/functions.php:81
+msgid "Large"
+msgstr ""
+
+#: inc/iconPicker/includes/library/functions.php:82
+msgid "Full Size"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/fontpack.php:132
+#, php-format
+msgid "Icon Picker: %1$s was not found in %2$s."
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/fontpack.php:133
+#, php-format
+msgid "Icon Picker: %s contains an error or more."
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/fontpack.php:134
+#, php-format
+msgid "Icon Picker: %1$s is not set or invalid in %2$s."
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/fontpack.php:135
+#, php-format
+msgid ""
+"Icon Picker: %1$s is already registered. Please check your font pack config "
+"file: %2$s."
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/fontpack.php:273
+#, php-format
+msgid "Pack: %s"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/loader.php:226
+msgid "Icon Picker"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/loader.php:227
+#: inc/iconPicker/includes/settings.php:725
+msgid "All"
+msgstr "Tous"
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:81
+msgid "Admin"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:85
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:77
+msgid "Post Formats"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:89
+msgid "Welcome Screen"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:93
+msgid "Image Editor"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:97
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:104
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:81
+msgid "Text Editor"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:101
+msgid "Post"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:105
+msgid "Sorting"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:109
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:68
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:85
+msgid "Social"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:113
+msgid "Jobs"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:117
+msgid "Internal/Products"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:121
+msgid "Taxonomies"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:125
+msgid "Alerts/Notifications"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:129
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:200
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:56
+msgid "Media"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:133
+msgid "Misc./Post Types"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:160
+msgid "Appearance"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:165
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:137
+msgid "Collapse"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:170
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:305
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2040
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2045
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:634
+msgid "Comments"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:175
+msgid "Customizer"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:180
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1295
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2105
+msgid "Dashboard"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:185
+msgid "Generic"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:190
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:340
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:865
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2225
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:509
+msgid "Filter"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:195
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1300
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1305
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2385
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:754
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:602
+msgid "Home"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:205
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:522
+msgid "Menu"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:210
+msgid "Multisite"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:215
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1315
+msgid "Network"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:220
+msgid "Page"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:225
+msgid "Plugins"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:230
+msgid "Settings"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:235
+msgid "Site"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:240
+msgid "Tools"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:250
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:622
+msgid "Standard"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:255
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:627
+msgid "Aside"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:260
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:632
+#: inc/iconPicker/includes/library/icon-picker/includes/types/image.php:53
+msgid "Image"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:265
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:470
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:935
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1200
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1205
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1210
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:635
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:640
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:289
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:642
+msgid "Video"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:270
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:900
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:667
+msgid "Audio"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:275
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:400
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:544
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:652
+msgid "Quote"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:280
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:637
+msgid "Gallery"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:290
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:647
+msgid "Status"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:295
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:662
+msgid "Chat"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:300
+msgid "Add page"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:310
+msgid "Edit page"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:315
+msgid "Learn More"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:320
+msgid "View Site"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:325
+msgid "Widgets"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:330
+msgid "Write Blog"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:335
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2075
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:504
+msgid "Crop"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:345
+msgid "Rotate"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:350
+msgid "Rotate Left"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:355
+msgid "Rotate Right"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:360
+msgid "Flip Vertical"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:365
+msgid "Flip Horizontal"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:370
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1570
+msgid "Undo"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:375
+msgid "Redo"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:380
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:180
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1460
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:374
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:692
+msgid "Bold"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:385
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:185
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1520
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:379
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:697
+msgid "Italic"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:390
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1550
+msgid "Unordered List"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:395
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1545
+msgid "Ordered List"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:405
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:510
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:105
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1440
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:414
+msgid "Align Left"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:410
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:520
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:110
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1445
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:419
+msgid "Align Center"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:415
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:515
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:115
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1455
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:424
+msgid "Align Right"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:420
+msgid "Insert More"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:425
+msgid "Spell Check"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:430
+msgid "Distraction-free"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:435
+msgid "Kitchensink"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:440
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1625
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:384
+msgid "Underline"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:445
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:120
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1450
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:429
+msgid "Justify"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:450
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:394
+msgid "Text Color"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:455
+msgid "Paste Word"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:460
+msgid "Paste Text"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:465
+msgid "Clear Formatting"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:475
+msgid "Custom Characters"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:480
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1510
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:444
+msgid "Indent"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:485
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1515
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:449
+msgid "Outdent"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:490
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:147
+msgid "Help"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:495
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1580
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:389
+msgid "Strikethrough"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:500
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1530
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:539
+msgid "Unlink"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:505
+msgid "RTL"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:525
+msgid "Align None"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:530
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:335
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:340
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2500
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:784
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:157
+msgid "Lock"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:535
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:540
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:725
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1890
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1895
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1900
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1905
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1910
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:599
+msgid "Calendar"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:545
+msgid "Hidden"
+msgstr "Cachée"
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:550
+msgid "Visibility"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:555
+msgid "Post Status"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:560
+msgid "Post Trash"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:565
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:275
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2130
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:682
+msgid "Edit"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:575
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:595
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:615
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:184
+msgid "Arrow: Up"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:580
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:600
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:620
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:189
+msgid "Arrow: Down"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:585
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:605
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:625
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:194
+msgid "Arrow: Left"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:590
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:610
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:630
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:199
+msgid "Arrow: Right"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:635
+msgid "Left-Right"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:640
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2865
+msgid "Sort"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:645
+msgid "List View"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:650
+msgid "Excerpt View"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:655
+msgid "Grid View"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:660
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:665
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:670
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:525
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:530
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2800
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2805
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2810
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2815
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2820
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:839
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:262
+msgid "Share"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:675
+msgid "Twitter"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:680
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2770
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:834
+msgid "RSS"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:685
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:690
+#: update/plugin-updater.php:642
+msgid "Email"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:695
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:700
+msgid "Facebook"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:705
+msgid "Google+"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:710
+msgid "Networking"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:715
+msgid "Art"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:720
+msgid "Hammer"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:725
+msgid "Migrate"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:730
+msgid "Performance"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:735
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:740
+msgid "WordPress"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:745
+msgid "PressThis"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:750
+msgid "Update"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:755
+msgid "Screen Options"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:760
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1045
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2430
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2435
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1074
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:152
+msgid "Info"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:765
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:437
+msgid "Cart"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:770
+msgid "Feedback"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:775
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1345
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1350
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1995
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:609
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:597
+msgid "Cloud"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:780
+msgid "Translation"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:785
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:535
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2990
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:367
+msgid "Tag"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:790
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:357
+msgid "Category"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:795
+#: inc/iconPicker/includes/settings.php:376
+msgid "Yes"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:800
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:805
+#: inc/iconPicker/includes/settings.php:372
+msgid "No"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:810
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:430
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1165
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1170
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2680
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2685
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:674
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:172
+msgid "Plus"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:815
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:365
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1155
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1160
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2575
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2580
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:679
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:684
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:177
+msgid "Minus"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:820
+msgid "Dismiss"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:825
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:794
+msgid "Marker"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:830
+msgid "Star: Filled"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:835
+msgid "Star: Half"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:840
+msgid "Star: Empty"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:845
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:875
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:880
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2240
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2245
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2250
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:724
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:492
+msgid "Flag"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:850
+msgid "Skip Back"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:855
+msgid "Back"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:860
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:400
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:405
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1675
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1680
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1685
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:894
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:899
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:327
+msgid "Play"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:865
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:410
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:415
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1670
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:904
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:332
+msgid "Pause"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:870
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:160
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:165
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1665
+msgid "Forward"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:875
+msgid "Skip Forward"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:880
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:470
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:475
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1565
+msgid "Repeat"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:885
+msgid "Volume: On"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:890
+msgid "Volume: Off"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:895
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1720
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:589
+msgid "Archive"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:905
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2010
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:687
+msgid "Code"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:910
+msgid "Default"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:915
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:457
+msgid "Document"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:920
+msgid "Interactive"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:925
+msgid "Spreadsheet"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:930
+msgid "Text"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:940
+msgid "Audio Playlist"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:945
+msgid "Video Playlist"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:950
+msgid "Album"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:955
+msgid "Analytics"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:960
+msgid "Awards"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:965
+msgid "Backup"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:970
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1865
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1870
+msgid "Building"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:975
+msgid "Businessman"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:980
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:735
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1915
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:229
+msgid "Camera"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:985
+msgid "Carrot"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:990
+msgid "Chart: Pie"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:995
+msgid "Chart: Bar"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1000
+msgid "Chart: Line"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1005
+msgid "Chart: Area"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1010
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2115
+msgid "Desktop"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1020
+msgid "Groups"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1025
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1030
+msgid "ID"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1035
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1040
+msgid "Images"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1045
+msgid "Index Card"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1050
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:759
+msgid "Layout"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1055
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1060
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:607
+msgid "Location"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1065
+msgid "Products"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1070
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:557
+msgid "Portfolio"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1075
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1080
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:690
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1835
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:999
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:432
+msgid "Book"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1085
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:265
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:270
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2125
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:709
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:467
+msgid "Download"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1090
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:580
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3150
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:714
+msgid "Upload"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1095
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1985
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:604
+msgid "Clock"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1100
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2490
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1084
+msgid "Lightbulb"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1105
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:795
+msgid "Money"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1110
+msgid "Palm Tree"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1115
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1120
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1125
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2660
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2665
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:542
+msgid "Phone"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1125
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1130
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2825
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1144
+msgid "Shield"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1135
+msgid "Slides"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1140
+msgid "Smartphone"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1145
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1215
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1220
+msgid "Smiley"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1150
+msgid "S.O.S."
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1155
+msgid "Sticky"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1160
+msgid "Store"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1165
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2980
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:572
+msgid "Tablet"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1170
+msgid "Testimonial"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1175
+msgid "Tickets"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1180
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:555
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3025
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3035
+msgid "Thumbs Up"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1185
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:560
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3020
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3030
+msgid "Thumbs Down"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1190
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:345
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:350
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3135
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3140
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:789
+msgid "Unlock"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1195
+msgid "Vault"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/dashicons.php:1215
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3200
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:582
+msgid "Warning"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:48
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:57
+msgid "Actions"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:52
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:68
+msgid "Currency"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:60
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:69
+msgid "Misc."
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:64
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:73
+msgid "Places"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:95
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:100
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1710
+msgid "Adjust"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:125
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:920
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:402
+msgid "Arrow Up"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:130
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:905
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:407
+msgid "Arrow Down"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:135
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:910
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:412
+msgid "Arrow Left"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:140
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:915
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:417
+msgid "Arrow Right"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:145
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1655
+msgid "Fast Backward"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:150
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1690
+msgid "Step Backward"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:155
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1635
+msgid "Backward"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:170
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1695
+msgid "Step Forward"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:175
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1660
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:924
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:342
+msgid "Fast Forward"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:190
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1525
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:534
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:657
+msgid "Link"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:195
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:960
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:980
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1940
+msgid "Caret Up"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:200
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:945
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:965
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1925
+msgid "Caret Down"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:205
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:950
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:970
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1930
+msgid "Caret Left"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:210
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:955
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:975
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1935
+msgid "Caret Right"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:215
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1130
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1135
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1960
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1965
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1970
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:699
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:704
+msgid "Check"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:220
+msgid "Check Empty"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:225
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1020
+msgid "Chevron Up"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:230
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1005
+msgid "Chevron Down"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:235
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1010
+msgid "Chevron Left"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:240
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1015
+msgid "Chevron Right"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:245
+msgid "Circle Arrow Up"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:250
+msgid "Circle Arrow Down"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:255
+msgid "Circle Arrow Left"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:260
+msgid "Circle Arrow Right"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:280
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1645
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:959
+msgid "Eject"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:285
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:290
+msgid "File New"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:295
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:300
+msgid "File Edit"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:305
+msgid "Fork"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:310
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:497
+msgid "Fullscreen"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:315
+msgid "Indent Left"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:320
+msgid "Indent Right"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:325
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:330
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1535
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1540
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:774
+msgid "List"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:355
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:360
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2545
+msgid "Map Marker"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:370
+msgid "Minus Sign"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:375
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:192
+msgid "Move"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:380
+msgid "Off"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:385
+msgid "OK"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:390
+msgid "OK Circle"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:395
+msgid "OK Sign"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:420
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:425
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1700
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:909
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:337
+msgid "Stop"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:435
+msgid "Plus Sign"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:440
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2695
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:524
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:207
+msgid "Print"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:445
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2710
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2715
+msgid "Question"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:450
+msgid "Question Sign"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:455
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:889
+msgid "Record"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:460
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1355
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:804
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:227
+msgid "Refresh"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:465
+#: inc/iconPicker/includes/settings.php:723
+msgid "Remove"
+msgstr "Supprimer"
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:480
+msgid "Resize Vertical"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:485
+msgid "Resize Horizontal"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:490
+msgid "Resize Full"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:495
+msgid "Resize Small"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:500
+msgid "Return"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:505
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2760
+msgid "Retweet"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:510
+msgid "Reverse"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:540
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3000
+msgid "Tasks"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:545
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1600
+msgid "Text Height"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:550
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1605
+msgid "Text Width"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:565
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3060
+msgid "Tint"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:585
+msgid "View Mode"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:590
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3195
+msgid "Volume Up"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:595
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3185
+msgid "Volume Down"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:600
+msgid "Mute"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:605
+msgid "Warning Sign"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:610
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:884
+msgid "Zoom In"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:615
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:879
+msgid "Zoom Out"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:645
+msgid "Adult"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:650
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:655
+msgid "Address Book"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:660
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:114
+msgid "ASL"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:665
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1740
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:974
+msgid "Asterisk"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:670
+msgid "Ban Circle"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:675
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1760
+msgid "Barcode"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:680
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1800
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1805
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1810
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1815
+msgid "Bell"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:685
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:119
+msgid "Blind"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:695
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:124
+msgid "Braille"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:700
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1855
+msgid "Briefcase"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:705
+msgid "Broom"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:710
+msgid "Brush"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:715
+msgid "Bulb"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:720
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1875
+msgid "Bullhorn"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:730
+msgid "Calendar Sign"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:740
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1380
+msgid "Car"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:745
+msgid "CC"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:750
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1955
+msgid "Certificate"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:755
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1975
+msgid "Child"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:760
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:765
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1350
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:452
+msgid "Cog"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:770
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2025
+msgid "Cogs"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:775
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:780
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2030
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2035
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:614
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:352
+msgid "Comment"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:785
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:790
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2060
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:234
+msgid "Compass"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:795
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1295
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2070
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:339
+msgid "Credit Card"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:805
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:810
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2145
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2150
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2155
+msgid "Envelope"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:815
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:820
+msgid "Error"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:825
+msgid "Exclamation Sign"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:830
+msgid "Eye Close"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:835
+msgid "Eye Open"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:840
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2530
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:154
+msgid "Male"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:845
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2215
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:159
+msgid "Female"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:850
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:855
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1065
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1070
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:554
+msgid "File"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:860
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2220
+msgid "Film"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:870
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2230
+msgid "Fire"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:885
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2265
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2275
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:649
+msgid "Folder"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:890
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2270
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2280
+msgid "Folder Open"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:895
+msgid "Folder Close"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:900
+msgid "Folder Sign"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:905
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1500
+msgid "Font"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:910
+#: inc/iconPicker/includes/settings.php:439
+msgid "Font Size"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:915
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2315
+msgid "Gift"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:920
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2320
+msgid "Glass"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:925
+msgid "Glasses"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:930
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:935
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2325
+msgid "Globe"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:940
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:945
+msgid "Graph"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:950
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:955
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2335
+msgid "Group"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:960
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:139
+msgid "Guide Dog"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:965
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1040
+msgid "Hand Up"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:970
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1025
+msgid "Hand Down"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:975
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1030
+msgid "Hand Left"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:980
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1035
+msgid "Hand Right"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:985
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2375
+msgid "HDD"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:990
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2380
+msgid "Headphones"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:995
+msgid "Hearing Impaired"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1000
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1005
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1250
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1255
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:669
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:507
+msgid "Heart"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1010
+msgid "Heart Empty"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1015
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2390
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2395
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2400
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2405
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2410
+msgid "Hourglass"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1020
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1025
+msgid "Idea"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1030
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1035
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1040
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2420
+msgid "Inbox"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1050
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2440
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1079
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:512
+msgid "Key"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1055
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1060
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2455
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:239
+msgid "Laptop"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1065
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2460
+msgid "Leaf"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1070
+msgid "Lines"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1075
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2505
+msgid "Magic"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1080
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2510
+msgid "Magnet"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1085
+msgid "Mic"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1090
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2605
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1099
+msgid "Music"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1095
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1100
+msgid "Paper Clip"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1105
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1110
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2645
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2650
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2655
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:814
+msgid "Pencil"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1115
+msgid "Person"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1130
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1135
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:519
+msgid "Photo"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1140
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2670
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:547
+msgid "Picture"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1145
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1395
+msgid "Plane"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1150
+msgid "Podcast"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1155
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1134
+msgid "Puzzle"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1160
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2705
+msgid "QR Code"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1165
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1170
+msgid "Quotes"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1175
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2730
+msgid "Random"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1180
+msgid "Scissors"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1185
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1190
+msgid "Screen"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1195
+msgid "Screenshot"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1200
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2830
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:369
+msgid "Shopping Cart"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1205
+msgid "Shopping Cart Sign"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1210
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2845
+msgid "Signal"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1225
+msgid "Speaker"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1230
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3155
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:377
+msgid "User"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1235
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:854
+msgid "Thumbnails"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1240
+msgid "Thumbnails (Large)"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1245
+msgid "Thumbnails (List)"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1250
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1255
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:372
+msgid "Time"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1260
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1179
+msgid "Torso"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1265
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1435
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:179
+msgid "Wheelchair"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1270
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1275
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3210
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:874
+msgid "Wrench"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1280
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:149
+msgid "Universal Access"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1285
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1840
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1845
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:594
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1004
+msgid "Bookmark"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1290
+msgid "Bookmark Empty"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1310
+msgid "Home (iPhone)"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1320
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2995
+msgid "Tags"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1325
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1330
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:617
+msgid "Website"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/elusive.php:1445
+msgid "Open Source"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:60
+msgid "Brand"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:64
+msgid "Charts"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:72
+msgid "Directional"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:76
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:68
+msgid "File Types"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:80
+msgid "Form Controls"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:84
+msgid "Genders"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:88
+msgid "Medical"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:92
+msgid "Payment"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:96
+msgid "Spinners"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:100
+msgid "Transportation"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:108
+msgid "Video Player"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:112
+msgid "Web Application"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:740
+msgid "Area Chart"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:745
+msgid "Bar Chart"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:750
+msgid "Line Chart"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:755
+msgid "Pie Chart"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:760
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:294
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:299
+msgid "Bitcoin"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:765
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:304
+msgid "Dollar"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:770
+msgid "Euro"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:775
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:780
+msgid "GBP"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:785
+msgid "GG"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:790
+msgid "Israeli Sheqel"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:800
+msgid "Rouble"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:805
+msgid "Rupee"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:810
+msgid "Turkish Lira"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:815
+msgid "Won"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:820
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:319
+msgid "Yen"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:825
+msgid "Angle Down"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:830
+msgid "Angle Left"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:835
+msgid "Angle Right"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:840
+msgid "Angle Up"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:845
+msgid "Angle Double Down"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:850
+msgid "Angle Double Left"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:855
+msgid "Angle Double Right"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:860
+msgid "Angle Double Up"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:865
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:885
+msgid "Arrow Circle Down"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:870
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:890
+msgid "Arrow Circle Left"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:875
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:895
+msgid "Arrow Circle Right"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:880
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:900
+msgid "Arrow Circle Up"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:925
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:930
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:935
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:940
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1630
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1725
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1730
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1735
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:52
+msgid "Arrows"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:985
+msgid "Chevron Circle Down"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:990
+msgid "Chevron Circle Left"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:995
+msgid "Chevron Circle Right"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1000
+msgid "Chevron Circle Up"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1045
+msgid "Long Arrow Down"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1050
+msgid "Long Arrow Left"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1055
+msgid "Long Arrow Right"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1060
+msgid "Long Arrow Up"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1075
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1080
+msgid "File: Text"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1085
+msgid "File: Archive"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1090
+msgid "File: Audio"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1095
+msgid "File: Code"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1100
+msgid "File: Excel"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1105
+msgid "File: Image"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1110
+msgid "File: PDF"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1115
+msgid "File: Powerpoint"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1120
+msgid "File: Video"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1125
+msgid "File: Word"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1140
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1145
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1345
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1980
+msgid "Circle"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1150
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:462
+msgid "Dot"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1175
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1180
+msgid "Square"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1185
+msgid "Genderless"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1190
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1195
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1200
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1205
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1210
+msgid "Mars"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1215
+msgid "Mercury"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1220
+msgid "Neuter"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1225
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1230
+msgid "Transgender"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1235
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1240
+msgid "Venus"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1245
+msgid "Venus + Mars"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1260
+msgid "Heartbeat"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1265
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1270
+msgid "Hospital"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1275
+msgid "Medkit"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1280
+msgid "Stethoscope"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1285
+msgid "User MD"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1360
+msgid "Spinner"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1365
+msgid "Ambulance"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1370
+msgid "Bicycle"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1375
+msgid "Bus"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1385
+msgid "Fighter Jet"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1390
+msgid "Motorcycle"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1400
+msgid "Rocket"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1405
+msgid "Ship"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1410
+msgid "Space Shuttle"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1415
+msgid "Subway"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1420
+msgid "Taxi"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1425
+msgid "Train"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1430
+msgid "Truck"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1465
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1009
+msgid "Clipboard"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1470
+msgid "Columns"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1475
+msgid "Copy"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1480
+msgid "Cut"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1485
+msgid "Paste"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1490
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2160
+msgid "Eraser"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1495
+msgid "Files"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1505
+msgid "Header"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1555
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:809
+msgid "Paperclip"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1560
+msgid "Paragraph"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1575
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:529
+msgid "Save"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1585
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:409
+msgid "Subscript"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1590
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:404
+msgid "Superscript"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1595
+msgid "Table"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1610
+msgid "Table Header"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1615
+msgid "TH Large"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1620
+msgid "TH List"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1640
+msgid "Compress"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1650
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:142
+msgid "Expand"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1705
+msgid "YouTube Play"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1715
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:969
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:672
+msgid "Anchor"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1745
+msgid "At"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1750
+msgid "Balance"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1755
+msgid "Ban"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1765
+msgid "Bars"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1770
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1775
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1780
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1785
+msgid "Battery"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1790
+msgid "Bed"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1795
+msgid "Beer"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1820
+msgid "Binoculars"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1825
+msgid "Birthday Cake"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1830
+msgid "Bolt"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1850
+msgid "Bomb"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1860
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:427
+msgid "Bug"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1880
+msgid "Bullseye"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1885
+msgid "Calculator"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1920
+msgid "Camera Retro"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1945
+msgid "Cart Arrow Down"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1950
+msgid "Cart Plus"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:1990
+msgid "Clone"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2000
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:442
+msgid "Cloud Download"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2005
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:447
+msgid "Cloud Upload"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2015
+msgid "Code Fork"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2020
+msgid "Coffee"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2050
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2055
+msgid "Commenting"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2065
+msgid "Copyright"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2080
+msgid "Crosshairs"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2085
+msgid "Cube"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2090
+msgid "Cubes"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2095
+msgid "Cursor"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2100
+msgid "Cutlery"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2110
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:644
+msgid "Database"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2120
+msgid "Diamond"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2135
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2140
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:477
+msgid "Ellipsis"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2165
+msgid "Exchange"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2170
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2175
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2180
+msgid "Exclamation"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2185
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2190
+msgid "External Link"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2195
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2200
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:664
+msgid "Eye"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2205
+msgid "Eye Dropper"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2210
+msgid "Fax"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2235
+msgid "Fire Extinguisher"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2255
+msgid "Flash"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2260
+msgid "Flask"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2285
+msgid "Foot Ball"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2290
+msgid "Frown"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2295
+msgid "Gamepad"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2300
+msgid "Gavel"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2305
+msgid "Gear"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2310
+msgid "Gears"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2330
+msgid "Graduation Cap"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2340
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2345
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2350
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2355
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2360
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2365
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2370
+msgid "Hand"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2415
+msgid "History"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2425
+msgid "Industry"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2445
+msgid "Keyboard"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2450
+msgid "Language"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2465
+msgid "Legal"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2470
+msgid "Lemon"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2475
+msgid "Level Down"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2480
+msgid "Level Up"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2485
+msgid "Life Buoy"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2495
+msgid "Location Arrow"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2515
+msgid "Mail Forward"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2520
+msgid "Mail Reply"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2525
+msgid "Mail Reply All"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2535
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2540
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1089
+msgid "Map"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2550
+msgid "Map Pin"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2555
+msgid "Map Signs"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2560
+msgid "Meh"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2565
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2570
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:249
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:527
+msgid "Microphone"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2585
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:254
+msgid "Mobile"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2590
+msgid "Mobile Phone"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2595
+msgid "Moon"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2600
+msgid "Mouse Pointer"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2610
+msgid "Newspaper"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2615
+msgid "Object Group"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2620
+msgid "Object Ungroup"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2625
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:537
+msgid "Paint Brush"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2630
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2635
+msgid "Paper Plane"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2640
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1114
+msgid "Paw"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2675
+msgid "Plug"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2690
+msgid "Power Off"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2700
+msgid "Puzzle Piece"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2720
+msgid "Quote Left"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2725
+msgid "Quote Right"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2735
+msgid "Rebel"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2740
+msgid "Recycle"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2745
+msgid "Registered"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2750
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:232
+msgid "Reply"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2755
+msgid "Reply All"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2765
+msgid "Road"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2775
+msgid "RSS Square"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2785
+msgid "Search Minus"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2790
+msgid "Search Plus"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2795
+msgid "Server"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2835
+msgid "Sign In"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2840
+msgid "Sign Out"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2850
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:612
+msgid "Sitemap"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2855
+msgid "Sliders"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2860
+msgid "Smile"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2870
+msgid "Sort ASC"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2875
+msgid "Sort DESC"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2880
+msgid "Sort Down"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2885
+msgid "Sort Up"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2890
+msgid "Sort Alpha ASC"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2895
+msgid "Sort Alpha DESC"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2900
+msgid "Sort Amount ASC"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2905
+msgid "Sort Amount DESC"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2910
+msgid "Sort Numeric ASC"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2915
+msgid "Sort Numeric DESC"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2920
+msgid "Spoon"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2925
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2950
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:849
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:562
+msgid "Star"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2930
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2935
+msgid "Star Half"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2940
+msgid "Star Half Empty"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2945
+msgid "Star Half Full"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2955
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2960
+msgid "Sticky Note"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2965
+msgid "Street View"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2970
+msgid "Suitcase"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2975
+msgid "Sun"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:2985
+msgid "Tachometer"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3005
+msgid "Television"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3010
+msgid "Terminal"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3015
+msgid "Thumb Tack"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3040
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1164
+msgid "Ticket"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3045
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3050
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3055
+msgid "Times"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3065
+msgid "Toggle Down"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3070
+msgid "Toggle Left"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3075
+msgid "Toggle Right"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3080
+msgid "Toggle Up"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3085
+msgid "Toggle Off"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3090
+msgid "Toggle On"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3095
+msgid "Trademark"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3110
+msgid "Tree"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3115
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1174
+msgid "Trophy"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3120
+msgid "TTY"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3125
+msgid "Umbrella"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3130
+msgid "University"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3145
+msgid "Unsorted"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3165
+msgid "User: Add"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3170
+msgid "User: Remove"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3175
+msgid "User: Password"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3180
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:577
+msgid "Video Camera"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3190
+msgid "Volume Of"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/fa.php:3205
+msgid "WiFi"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:48
+msgid "Accessibility"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:56
+msgid "Devices"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:60
+msgid "Ecommerce"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:64
+msgid "Editor"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:72
+msgid "General"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:76
+msgid "Media Controls"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:80
+msgid "Miscellaneous"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:84
+msgid "People"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:88
+msgid "Social/Brand"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:129
+msgid "Closed Caption"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:134
+msgid "Elevator"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:144
+msgid "Hearing Aid"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:164
+msgid "Male & Female"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:169
+msgid "Male Symbol"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:174
+msgid "Female Symbol"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:204
+msgid "Arrows: Out"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:209
+msgid "Arrows: In"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:214
+msgid "Arrows: Expand"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:219
+msgid "Arrows: Compress"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:224
+msgid "Bluetooth"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:244
+msgid "Megaphone"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:259
+msgid "Mobile Signal"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:264
+msgid "Monitor"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:269
+msgid "Tablet: Portrait"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:274
+msgid "Tablet: Landscape"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:279
+msgid "Telephone"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:284
+msgid "USB"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:309
+msgid "EURO"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:314
+msgid "Pound"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:324
+msgid "Burst"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:329
+msgid "Burst: New"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:334
+msgid "Burst: Sale"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:344
+msgid "Dollar Bill"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:354
+msgid "Price Tag"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:359
+msgid "Price Tag: Multiple"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:364
+msgid "Shopping Bag"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:399
+msgid "Background Color"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:434
+msgid "List: Number"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:439
+msgid "List: Bullet"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:454
+msgid "Add Page"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:459
+msgid "Copy Page"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:464
+msgid "Duplicate Page"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:469
+msgid "Delete Page"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:474
+msgid "Remove Page"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:479
+msgid "Edit Page"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:484
+msgid "Export"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:489
+msgid "Export to CSV"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:494
+msgid "Export to PDF"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:499
+msgid "Fill Page"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:514
+msgid "Paint Bucket"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:549
+msgid "Search in Page"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:559
+msgid "CSV"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:564
+msgid "Doc"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:569
+msgid "PDF"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:574
+msgid "Addressbook"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:579
+msgid "Alert"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:584
+msgid "Annotate"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:619
+msgid "Comment: Minus"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:624
+msgid "Comment: Quotes"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:629
+msgid "Comment: Video"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:639
+msgid "Contrast"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:654
+msgid "Folder: Add"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:659
+msgid "Folder: Lock"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:689
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:694
+msgid "X"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:719
+msgid "Upload to Cloud"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:729
+msgid "Foundation"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:734
+msgid "Graph: Bar"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:739
+msgid "Graph: Horizontal"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:744
+msgid "Graph: Pie"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:749
+msgid "Graph: Trend"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:764
+msgid "Like"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:769
+msgid "Dislike"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:779
+msgid "List: Thumbnails"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:799
+msgid "Magnifying Glass"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:819
+msgid "Play Video"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:824
+msgid "Results"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:829
+msgid "Results: Demographics"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:844
+msgid "Sound"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:864
+msgid "Web"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:869
+msgid "Widget"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:914
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:182
+msgid "Previous"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:919
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:322
+msgid "Rewind"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:929
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:187
+msgid "Next"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:934
+msgid "Volume"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:939
+msgid "Volume: Low"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:944
+msgid "Volume: Mute"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:949
+msgid "Loop"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:954
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:267
+msgid "Shuffle"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:964
+msgid "Rewind 10"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:979
+msgid "@"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:984
+msgid "Battery: Full"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:989
+msgid "Battery: Half"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:994
+msgid "Battery: Empty"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1014
+msgid "Clipboard: Pencil"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1019
+msgid "Clipboard: Notes"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1024
+msgid "Crown"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1029
+msgid "Dice: 1"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1034
+msgid "Dice: 2"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1039
+msgid "Dice: 3"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1044
+msgid "Dice: 4"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1049
+msgid "Dice: 5"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1054
+msgid "Dice: 6"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1059
+msgid "Cone"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1064
+msgid "Firs Aid"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1069
+msgid "Foot"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1094
+msgid "Mountains"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1104
+msgid "No Dogs"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1109
+msgid "No Smoking"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1119
+msgid "Power"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1124
+msgid "Prohibited"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1129
+msgid "Projection Screen"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1139
+msgid "Sheriff Badge"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1149
+msgid "Skull"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1154
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1159
+msgid "Target"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1169
+msgid "Trees"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1184
+msgid "Torso: Business"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1189
+msgid "Torso: Female"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1194
+msgid "Torsos"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1199
+msgid "Torsos: All"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1204
+msgid "Torsos: All Female"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1209
+msgid "Torsos: Male & Female"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/foundation-icons.php:1214
+msgid "Torsos: Female & Male"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:61
+msgid "Media Player"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:65
+msgid "Meta"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:112
+msgid "Checkmark"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:117
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:122
+msgid "Close"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:127
+msgid "Dropdown"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:132
+msgid "Dropdown left"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:162
+msgid "Maximize"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:167
+msgid "Minimize"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:197
+msgid "Hide"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:202
+msgid "Show"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:212
+msgid "Rating: Empty"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:217
+msgid "Rating: Half"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:222
+msgid "Rating: Full"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:237
+msgid "Reply alt"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:242
+msgid "Reply single"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:252
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:257
+msgid "Send to"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:272
+msgid "Spam"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:277
+msgid "Subscribe"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:282
+msgid "Subscribed"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:287
+msgid "Unsubscribe"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:292
+#: inc/iconPicker/includes/settings.php:408
+msgid "Top"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:297
+msgid "Unapprove"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:302
+msgid "Zoom"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:307
+msgid "Unzoom"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:312
+msgid "X-Post"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:317
+msgid "Skip back"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:347
+msgid "Skip ahead"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:362
+msgid "Hierarchy"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:382
+msgid "Day"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:387
+msgid "Week"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:392
+msgid "Month"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:397
+msgid "Pinned"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:422
+msgid "Activity"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:472
+msgid "Draggable"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:482
+msgid "External"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:487
+msgid "Feed"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:502
+msgid "Handset"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:517
+msgid "Mail"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:532
+msgid "Notice"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:552
+msgid "Plugin"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:567
+msgid "Summary"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:587
+msgid "404"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/genericon.php:677
+msgid "Attachment"
+msgstr ""
+
+#: inc/iconPicker/includes/library/icon-picker/includes/types/svg.php:52
+msgid "SVG"
+msgstr ""
+
+#: inc/iconPicker/includes/picker.php:79
+msgid "Type"
+msgstr ""
+
+#: inc/iconPicker/includes/picker.php:84 inc/iconPicker/includes/picker.php:203
+msgid "Icon"
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:293
+msgid "<strong>Menu Icons Settings</strong> have been successfully updated."
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:294
+msgid "<strong>Menu Icons Settings</strong> have been successfully reset."
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:319
+msgid "Menu Icons Settings"
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:367
+msgid "Hide Label"
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:383
+msgid "Position"
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:388
+msgid "Before"
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:392
+msgid "After"
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:399
+msgid "Vertical Align"
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:404
+msgid "Super"
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:412
+msgid "Text Top"
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:416
+msgid "Middle"
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:420
+msgid "Baseline"
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:424
+msgid "Text Bottom"
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:428
+msgid "Bottom"
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:432
+msgid "Sub"
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:450
+msgid "SVG Width"
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:461
+msgid "Image Size"
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:468
+msgid "Icon size"
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:533
+msgid "Global"
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:534
+msgid "Global settings"
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:539
+msgid "Icon Types"
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:555
+msgid "Current Menu"
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:557
+#, php-format
+msgid "\"%s\" menu settings"
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:674
+msgid "Save Settings"
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:721
+msgid "Select icon"
+msgstr "Icône sélectionné"
+
+#: inc/iconPicker/includes/settings.php:722
+msgid "Select an icon"
+msgstr "Sélectionner un icône"
+
+#: inc/iconPicker/includes/settings.php:724
+msgid "Change"
+msgstr ""
+
+#: inc/iconPicker/includes/settings.php:726
+msgid "Preview"
+msgstr ""
+
+#: inc/utilisateur.php:269 inc/utilisateur.php:270
+msgid "Responsible of website"
+msgstr "Responsable du site"
+
+#: inc/utilisateur.php:272 inc/utilisateur.php:273
+msgid "Reseller"
+msgstr "Revendeur"
+
+#: inc/utilisateur.php:275 inc/utilisateur.php:276
+msgid "Author"
+msgstr "Auteur"
+
+#: inc/utilisateur.php:398
+msgid "Incorrect username or password."
+msgstr ""
+
+#: inc/utilisateur.php:574
+msgid "Post publication of"
+msgstr "Publication de l’article : "
+
+#: inc/utilisateur.php:575
+#, php-format
+msgid "The author %1$s have published on %2$s website the post \"%3$s\"."
+msgstr "L’auteur %1$s vient de publier sur le site %2$s l’article « %3$s »."
+
+#: inc/utilisateur.php:578
+#, php-format
+msgid "%1$sEdit the post%2$s"
+msgstr "%1$sModifier l’article%2$s"
+
+#: inc/utilisateur.php:579
+#, php-format
+msgid "%1$sShow the post%2$s"
+msgstr "%1$sAfficher l’article%2$s"
+
+#: update/plugin-updater.php:380
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr ""
+
+#: update/plugin-updater.php:380 update/plugin-updater.php:545
+msgid "Try again"
+msgstr ""
+
+#: update/plugin-updater.php:421
+msgid "An unknown error occurred"
+msgstr ""
+
+#: update/plugin-updater.php:457
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+
+#: update/plugin-updater.php:458
+msgid "Plugin reactivated successfully. "
+msgstr ""
+
+#: update/plugin-updater.php:480
+msgid " Plugin Updates"
+msgstr ""
+
+#: update/plugin-updater.php:519
+msgid "Username: "
+msgstr ""
+
+#: update/plugin-updater.php:523
+msgid "Email: "
+msgstr ""
+
+#: update/plugin-updater.php:529
+msgid "Key: "
+msgstr ""
+
+#: update/plugin-updater.php:535
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+
+#: update/plugin-updater.php:539
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+
+#: update/plugin-updater.php:540
+msgid "Edit Key"
+msgstr ""
+
+#: update/plugin-updater.php:544
+msgid "<p>Unable to validate update activation.</p>"
+msgstr ""
+
+#: update/plugin-updater.php:550
+msgid "Add Key"
+msgstr ""
+
+#: update/plugin-updater.php:636
+msgid "User name"
+msgstr ""
+
+#: update/plugin-updater.php:651
+msgid "Activation Key"
+msgstr ""
+
+#~ msgid "Between 140 and 170 characters"
+#~ msgstr "Entre 140 et 170 caractères"
+
+#~ msgid "See you around,"
+#~ msgstr "À bientôt,"
+
+#~ msgid "6temFlex team"
+#~ msgstr "L'équipe 6temFlex"
+
+#~ msgid "Edit others users posts"
+#~ msgstr "Modifier les articles des autres utilisateurs"
+
+#~ msgid "Remove own posts %s"
+#~ msgstr "Supprimer ses propres articles %s"
+
+#~ msgid "Write or edit own %s"
+#~ msgstr "Rédiger ou modifier ses propres %s"
+
+#~ msgid "Remove others users posts %s"
+#~ msgstr "Supprimer les articles des autres utilisateurs %s"
+
+#~ msgid "Edit others users %s"
+#~ msgstr "Modifier les %s des autres utilisateurs"
+
+#~ msgid "Publish %s %s"
+#~ msgstr "Publier des %s %s"
+
+#~ msgid "Remove own %s %s"
+#~ msgstr "Supprimer ses propres %s %s"
+
+#~ msgid "Remove others users %s"
+#~ msgstr "Supprimer les %s des autres utilisateurs"
+
+#~ msgid "Add or edit custom post types keywords"
+#~ msgstr "Ajouter ou modifier des mots-clés pour tous les types de contenus"
+
+#~ msgid "Remove custom post types keywords"
+#~ msgstr "Supprimer des mots-clés pour tous les types de contenus"
+
+#~ msgid "Manage the shop %s"
+#~ msgstr "Gérer la boutique %s"
+
+#~ msgid ""
+#~ "This option is required to active all the others shop options (including "
+#~ "products, orders and coupons options)."
+#~ msgstr ""
+#~ "Cette option est obligatoire pour pouvoir activer toutes les autres "
+#~ "options liées à la boutique (ainsi que les options liées aux produits, "
+#~ "aux commandes et aux codes promo)."
+
+#~ msgid "Manage general settings"
+#~ msgstr "Gérer les paramètres généraux"
+
+#~ msgid "Edit users"
+#~ msgstr "Modifier des utilisateurs"
+
+#~ msgid "The author %1$s have published on %2$s website the post %3$s."
+#~ msgstr "L’auteur %1$s vient de publier sur le site %2$s l’article %3$s."
+
+#~ msgid "New post publication from an author"
+#~ msgstr "Un auteur vient de publier un nouvel article"
+
+#~ msgid ""
+#~ "A new post has been published by an author. Here are his informations :"
+#~ msgstr ""
+#~ "Un nouvel article vient d’être publié par un auteur. Vous trouverez ci-"
+#~ "dessous les informations de publication."
+
+#~ msgid "Author : %1$s"
+#~ msgstr "Auteur : %1$s"
+
+#~ msgid "Title : %1$s"
+#~ msgstr "Titre : %1$s"
+
+#~ msgid "New submission pending review"
+#~ msgstr "Nouvelle publication en attente de relecture"
+
+#~ msgid ""
+#~ "A new submission is pending review, you must validate it to publish it."
+#~ msgstr ""
+#~ "Une nouvelle publication est en attente de relecture, vous devez la "
+#~ "valider pour qu'elle soit publiée."
+
+#~ msgid "%1$sEdit the submission%2$s"
+#~ msgstr "%1$sModifier la publication%2$s"
+
+#~ msgid "%1$sPreview the submission%2$s"
+#~ msgstr "%1$sPrévisualiser la publication%2$s"
+
+#~ msgid "Your pending publication has been validated"
+#~ msgstr "Votre publication en attente est maintenant validée"
+
+#~ msgid "Hi %1$s"
+#~ msgstr "Bonjour %1$s"
+
+#~ msgid "Your post %1$s has been published !"
+#~ msgstr "Votre article %1$s vient d’être publié !"
+
+#~ msgid "A new submission is pending review."
+#~ msgstr "Une nouvelle publication est en attente de relecture."
+
+#~ msgid ""
+#~ "On this address, you will receive comments notifications and "
+#~ "subscriptions notifications (if the membership functionnality is enabled)."
+#~ msgstr ""
+#~ "Vous recevrez sur cette adresse les notifications de commentaire et les "
+#~ "notifications d’inscription (si la fonctionnalité « Espace membre » est "
+#~ "activée)."
+
+#~ msgid ""
+#~ "It is strongly recommended to have a description length between 140 and "
+#~ "170 characters"
+#~ msgstr ""
+#~ "Il est fortement conseillé d'utiliser une description entre 140 et 170 "
+#~ "caractères"
+
+#~ msgid "Responsible of website e-mail"
+#~ msgstr "E-mail du responsable du site"
+
+#~ msgid ""
+#~ "This address is used for an administration purpose. You will receive on "
+#~ "this e-mail address comments notifications and subscriptions "
+#~ "notifications."
+#~ msgstr ""
+#~ "Cette adresse est utilisée à des fins d’administration. Vous recevrez sur "
+#~ "cette adresse e-mail les notifications de commentaires et les "
+#~ "notifications d'inscription à votre site."
+
+#~ msgid "Administrator e-mail"
+#~ msgstr "E-mail administrateur"
+
+#~ msgid "Comments Options"
+#~ msgstr "Options des commentaires"
+
+#~ msgid "Featured image options"
+#~ msgstr "Options de l'image à la une"
+
+#~ msgid "List of posts"
+#~ msgstr "Liste d'articles"
+
+#~ msgid "Tiny"
+#~ msgstr "Petite"
+
+#~ msgid "Full"
+#~ msgstr "Large"
+
+#~ msgid "Single post"
+#~ msgstr "Article détaillé"
+
+#~ msgid "Landscape"
+#~ msgstr "Paysage"
+
+#~ msgid "Portrait"
+#~ msgstr "Portrait"

@@ -1,0 +1,6 @@
+.containerSelectImage { margin: 0; }
+.selectImage { display: inline-block; margin-right: 15px; cursor: pointer; }
+.selectImage.active img { border-color: #00a0d2; }
+.selectImage[disabled] { cursor: not-allowed; opacity: 0.3; }
+.selectImage label { display: block; margin-bottom: 10px; }
+.selectImage img { height: 200px; padding: 15px; border: 4px dashed #bbb; }

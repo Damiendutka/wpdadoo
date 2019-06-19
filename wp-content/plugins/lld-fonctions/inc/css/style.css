@@ -1,0 +1,31 @@
+/*
+==================================================================================================
+PAGINATION
+==================================================================================================
+*/
+#systemePaginationSmartphone li.disabled a { color: #d3d3d3; }
+#systemePaginationSmartphone li i { font-size: 20px; }
+#systemePaginationSmartphone li.inactive.current a { color: #777; }
+/*#systemePaginationSmartphone li a { width: 40px; }*/
+#systemePaginationSmartphone li select { padding: 5px 15px; margin-top: 15px; display: inline-block; float: left; width: auto; border: none; }
+#numPageSmartphone { width: 100%; margin-bottom: 10px; }
+
+.containerPagination { position: relative; text-align: center; margin: 20px 0; }
+.pagination { display: inline-block; padding-left: 0; margin: 20px 0; border-radius: 4px; }
+.pagination { margin: 0 auto; text-align: center; }
+.pagination > li {display: inline; padding: 0 !important; }
+.pagination > li > a,
+.pagination > li > span { position: relative; float: left; padding: 6px 12px; line-height: 1.42857143; text-decoration: none; margin-left: -1px; }
+.pagination li a:hover { text-decoration: none !important; }
+.visible-phone-inline-block { display: inline-block; }
+
+@media (max-width: 767px) {
+	#systemePagination { display: none; }
+}
+
+@media (max-width: 590px) {
+	#systemePaginationSmartphone li i { font-size: 25px; }
+	#systemePaginationSmartphone li.inactive.current a { color: #777; }
+	#systemePaginationSmartphone li a { line-height: 38px; border: none; }
+	#systemePaginationSmartphone li select { height: 40px; line-height: 38px; padding: 5px 15px; display: inline-block; float: left; width: auto; border: none; }
+}

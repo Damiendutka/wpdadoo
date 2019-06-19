@@ -1,0 +1,7 @@
+#optionDescription, #optionKeywords {
+width: 100%;
+height: 100px;
+resize: none;
+}
+
+#descriptionLeft, #keywordsLeft { display: none; }
